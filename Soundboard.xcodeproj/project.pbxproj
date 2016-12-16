@@ -99,6 +99,7 @@
 				TargetAttributes = {
 					620D04661E037A61009F124D = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = 5ZR8E9ADDM;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -264,6 +265,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5ZR8E9ADDM;
 				INFOPLIST_FILE = Soundboard/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.AffinityforApps.Soundboard;
@@ -276,6 +278,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5ZR8E9ADDM;
 				INFOPLIST_FILE = Soundboard/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.AffinityforApps.Soundboard;
